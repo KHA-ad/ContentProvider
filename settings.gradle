@@ -1,0 +1,2 @@
+include ':accesswords'
+include 'contentprovider', ':sqlitedatabase'
